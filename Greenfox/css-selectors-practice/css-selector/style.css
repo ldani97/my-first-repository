@@ -1,0 +1,15 @@
+p, .b329 {
+    color:blue;>
+}
+
+#b325, .b326  {
+    border: 1px solid green;
+}
+
+#b325, .b326, .b329 {
+    font-weight: bolder;
+}
+
+p {
+    background: yellow;
+}

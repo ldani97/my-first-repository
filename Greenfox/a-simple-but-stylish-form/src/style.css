@@ -1,0 +1,17 @@
+label, button {
+  display: block;
+  text-transform: uppercase;
+}
+
+button, input {
+  border: 2px solid lime;
+  padding: 10px;
+  margin: 10px 0px 10px 0px;
+  border-radius: 5px;
+  
+}
+
+button {
+  background: lime;
+  border-radius: 20px;
+}

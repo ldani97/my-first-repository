@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 300px;
+  justify-content: end;
+}
+
+div .itemgreen {
+  width: 150px;
+  height: 150px;
+  background: #51d400;
+}
+
+div .itemyellow {
+  width: 150px;
+  height: 150px;
+  background: #ffd62a;
+}
+
+div .itempurple {
+  width: 150px;
+  height: 150px;
+  background: #b02afe;
+}

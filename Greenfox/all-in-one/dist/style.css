@@ -1,0 +1,55 @@
+.wrapper {
+  width: 100%;
+  max width: 1000px;  
+}
+
+.turkiz {
+  height: 150px;
+  width: 1000px;  
+  background: cyan;
+}
+
+.container {
+  display: flex;
+  height: 1000px;
+  width: 1000px;
+  background: white;
+}
+
+.narancs {
+  height: 1000px;
+  width: 150px;
+  background: orange;
+  margin-right: 25px;
+}
+
+.piros {
+  display: flex;
+  height: 1000px;
+  width: 650px;
+  background: red;
+  justify-content: end;
+  position: relative;
+}
+
+.lila {
+  height: 1000px;
+  width: 150px;
+  background: purple;
+  margin-left: 25px;
+}
+
+.fekete {
+  height: 100px;
+  width: 100px;
+  background: black;
+  position: absolute;
+  bottom: 50px;
+  left: 500px;
+}
+
+.kek {
+  height: 150px;
+  width: 1000px;
+  background: blue;
+}

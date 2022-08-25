@@ -1,0 +1,21 @@
+h1 {
+  color: red;
+}
+
+h2 {
+  color: purple;
+}
+
+p {
+  width: 500px;
+}
+
+.purple {
+  color: purple;
+  text-decoration: underline;
+  
+}
+
+.IV {
+  text-decoration: underline
+}

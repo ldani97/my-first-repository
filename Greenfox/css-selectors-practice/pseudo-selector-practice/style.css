@@ -1,0 +1,27 @@
+.box1 {
+    grid-row-start: ;
+    padding: 10px;
+    width: 275px;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+}
+.box2, .box3, .box4, .box5, .box6 {
+    grid-row-start: ;
+    padding: 10px;
+    width: 275px;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+.box7 {
+    grid-row-start: ;
+    padding: 10px;
+    width: 275px;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.box1:hover, .box2:hover, .box3:hover, .box4:hover, .box5:hover, .box6:hover, .box7:hover {
+    background: orange;
+}
